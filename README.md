@@ -1,4 +1,4 @@
-# ChatGPT官网中文版 - ChatGPT中文网，国内免费使用（支持 ChatGPT-4、GPT-4o和o1）【2024年12月持续更新】
+# ChatGPT官网中文版 - ChatGPT中文网，国内免费使用（支持 ChatGPT-4、GPT-4o和o1）【2025年1月持续更新】
 
 > Update：2024/12/31 <br />
 > Author：chatgpt-site  
