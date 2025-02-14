@@ -3,7 +3,7 @@
 > Update：2025/02/15   
 > Author：chatgpt-site 
 
-畅享 **ChatGPT中文版**，**无需翻墙**，全面**支持 ChatGPT-4** 和多种本地化功能！**无限使用 GPT-4o 和 o1-preview**！<br />
+畅享 **ChatGPT中文版**，**无需翻墙**，全面**支持 ChatGPT-4** 和多种本地化功能！**无限使用 GPT-4o 和 o1、o3**！<br />
 <br />
 本项目致力于为用户提供全面的一站式 **ChatGPT 中文版使用指南**。<br />
 <br />
