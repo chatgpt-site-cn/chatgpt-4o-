@@ -1,6 +1,6 @@
 # ChatGPT官网中文版 - ChatGPT中文网，国内免费使用（支持 ChatGPT-4、GPT-4o和o1）【2025年2月持续更新】
 
-> Update：2025/02/22   
+> Update：2025/02/25   
 > Author：chatgpt-site 
 
 畅享 **ChatGPT中文版**，**无需翻墙**，全面**支持 ChatGPT-4** 和多种本地化功能！**无限使用 GPT-4o 和 o1、o3**！
@@ -51,12 +51,12 @@ ChatGPT中文版不仅提供了更好的**中文交互体验**，还**免去了�
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，这些网站为用户提供了高效便捷的中文访问体验：
 
-1. **[一下AI（www.yixiaai.com）](https://www.yixiaai.com/)**  
+1. **[一下AI（chat.yixiaai.com）](https://chat.yixiaai.com/)**  
    - 稳定运营：接近2年
    - 支持功能：GPT-4、4o、o1，AI 绘画
    - 特色：扫码即可使用，操作简单
 
-2. **[AI智慧岛（chat.lify.vip）](https://chat.lify.vip/)**  
+2. **[AI智慧岛（chat.lify.vip）](https://www.yixiaai.com/)**  
    - 稳定运营：接近2年
    - 支持功能：GPT-4、4o、o1，支持 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图
    - 特色：本地化功能丰富，适合多种应用场景
@@ -82,7 +82,7 @@ ChatGPT中文版不仅提供了更好的**中文交互体验**，还**免去了�
 
 使用这些 ChatGPT 镜像网站非常简单，只需按照以下步骤进行操作：
 
-1. **访问网站**：选择上文列出的任意一个镜像网站，例如 [一下AI（www.yixiaai.com）](https://www.yixiaai.com/) 或 [AI智慧岛（chat.lify.vip）](https://chat.lify.vip/)。
+1. **访问网站**：选择上文列出的任意一个镜像网站，例如 [一下AI（chat.yixiaai.com）](https://chat.yixiaai.com/) 或 [AI智慧岛（chat.lify.vip）](https://www.yixiaai.com/)。
 
 2. **注册或登录**：大多数网站支持扫码登录或手机号注册，流程简单快捷，通常只需几秒钟即可完成。
 
