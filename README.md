@@ -1,6 +1,6 @@
 # ChatGPT官网中文版 - ChatGPT中文网，国内免费使用（支持 ChatGPT-4、GPT-4o和o1）【5月持续更新】
 
-> 更新：2025/05/10   
+> 更新：2025/05/16   
 > 作者：chatgpt-site 
 
 畅享 **ChatGPT中文版**，**无需翻墙**，全面**支持 ChatGPT-4** 和多种本地化功能！**无限使用 GPT-4o 和 o1、o3**！
@@ -51,17 +51,17 @@ ChatGPT中文版不仅提供了更好的**中文交互体验**，还**免去了�
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，这些网站为用户提供了高效便捷的中文访问体验：
 
-1. **[一下AI（chat.yixiaai.com）](https://chat.yixiaai.com/)**  
+1. **[一下AI（chat.yixiaai.com）](https://xsimplechat.com/)**  
    - 稳定运营：接近2年
    - 支持功能：GPT-4、4o、o1，AI 绘画
    - 特色：扫码即可使用，操作简单
 
-2. **[AI智慧岛（chat.lify.vip）](https://www.yixiaai.com/)**  
+2. **[AI智慧岛（chat.lify.vip）](https://chat.lanjing.pro/)**  
    - 稳定运营：接近2年
    - 支持功能：GPT-4、4o、o1，支持 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图
    - 特色：本地化功能丰富，适合多种应用场景
 
-3. **[AI指南（guide1.lanjing.ai）](https://guide1.lanjing.ai/)**  
+3. **[AI指南（guide1.lanjing.ai）](https://lanjing.pro/)**  
    - 稳定运营：1年多
    - 支持功能：GPT-4、4o，AI 绘画（支持 Midjourney 和 DALL·E）
    - 特色：支持多种绘画工具
